@@ -1,5 +1,7 @@
 # Mobile Food Establishments in the Greenbrier Valley
 
+# View the full extended capstone here:
+https://app.powerbi.com/groups/me/reports/5adfc3e2-92ae-43cc-ad2f-3f44f0e88b4c/4eb3c49128b9a9166855?experience=power-bi
 
 ## Table of Contents
 * [Motivation](#motivation)
